@@ -1,3 +1,28 @@
+header{
+  background-image: url(/img/weather-images.jpg);
+}
+
+.container-fluid{
+  margin-top: 40px;
+
+}
+
+
+.weather-search{
+  width: 90%;
+}
+
+#search-button{
+width: 100%;
+}
+
+.input-group-append{
+  width: 100%;
+}
+
+#search-button{
+  background-color: rgb(108, 189, 189);
+}
 .list-group{
   background-color: rgb(206, 252, 252);
   
